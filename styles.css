@@ -1,0 +1,163 @@
+*{
+    background-color: black;
+    color: ghostwhite;
+    
+}
+#hi{
+    font-style: normal;
+    font-weight: bold;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size:2em;
+    text-align: center;
+    color: rgb(176, 195, 235);
+}
+#ss{
+    font-size: 1.8em;
+    color:darksalmon ;
+    font-family: 'Lobster', cursive;
+    letter-spacing: 2px;
+    text-align: center;
+}
+#para{
+    font-family: 'IBM Plex Sans Thai Looped', sans-serif;
+    font-family: 'Lobster', cursive;
+    font-family: 'Patrick Hand', cursive;
+    color: lightyellow;
+    font-size: x-large;
+    font-weight: bolder;
+    text-align:center;
+    line-height: 3rem;
+    letter-spacing: 2%;
+    padding-left:15%;
+    padding-right: 15%;
+}
+.head{
+    font-weight: 900;
+    font-family: sans-serif;
+    font-size: 2.5em;
+    color: rgb(176, 195, 235); 
+    text-align: center;
+    letter-spacing: 1%;   
+}
+#navbar {
+    font-size: x-large;
+    overflow: hidden;
+    background-color:black;
+    position:sticky
+  }
+  /* The sticky class */
+  .sticky {
+    position: fixed;
+    top: 0;
+    width: 100%; 
+  }
+#home{
+    margin: 0%;
+    padding-top: 5%;
+    padding-left: 1%;
+    padding-bottom: 3%;
+    padding-right: 1%;
+}
+#about{
+    margin: 0%;
+    padding-top: 5%;
+    padding-left: 1%;
+    padding-bottom: 1%;
+    padding-right: 1%;
+}
+#details{
+    padding-left: 15%;
+}
+#education{
+    margin: 0%;
+    padding-top: 5%;
+    padding-left: 1%;
+    padding-bottom: 1%;
+    padding-right: 1%;
+    
+}
+.education_detail{
+    display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	align-items: center;
+}
+#achievement{
+    margin: 0%;
+    padding-top: 5%;
+    padding-left: 1%;
+    padding-bottom: 1%;
+    padding-right: 1%;
+    align-items: center;
+}
+.center{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width:60%;
+}
+#achievement_img:hover{
+    width:100%;
+    
+}
+#skills{
+    margin: 0%;
+    padding-top: 5%;
+    padding-left: 1%;
+    padding-bottom: 1%;
+    padding-right: 1%;
+}
+canvas{
+    padding-left: 15%;
+    font-size: small;
+}
+#contact{
+    margin: 0%;
+    padding-top: 5%;
+    padding-left: 1%;
+    padding-bottom: 1%;
+    padding-right: 1%;
+}
+#contact h1{
+    padding-bottom: 3%;
+    
+}
+#contact_link{
+    display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	align-items: center auto;
+    padding-left: 5%;
+    padding-right: 5%;
+    
+}
+#linkedin{
+    align-items: center;
+    flex:1;
+}
+#mail{
+    align-items: center;
+    flex: 1;
+}
+#phno{
+    align-items: center;
+    flex:0.1
+}
+#address{
+    padding-top: 1%;
+    text-align: center;
+    padding-bottom: 10%;
+}
+ #footer{
+    text-align: center;
+    font-size: x-large;
+ } 
+span{
+    font-weight: 900;
+    font-size: 2rem;
+    color:darksalmon ;
+} 
+ 
+  
+  
+  
